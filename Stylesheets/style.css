@@ -1,0 +1,27 @@
+.panda-bg {
+    background-color: #fceae8;
+}
+
+.panda-btn-primary {
+    color: white;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F);
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+
+.panda-catagory-1 {
+    background-color: orange;
+}
+
+.panda-catagory-2 {
+    background-color: orchid;
+}
+
+.panda-catagory-3 {
+    background-color: blue;
+}
+
+.carosel-price {
+    color: #FF136F;
+}
